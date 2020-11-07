@@ -1,4 +1,4 @@
-Copyright (C) 2019 - The MoKee Open Source Project
+Copyright (C) 2020 - The MoKee Open Source Project
 
 Device configuration for OPPO Reno Ace
 ==============
