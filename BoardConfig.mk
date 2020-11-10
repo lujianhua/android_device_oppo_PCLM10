@@ -79,6 +79,8 @@ TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_THEME := portrait_hdpi
 TW_USE_TOOLBOX := true
 TW_IGNORE_MISC_WIPE_DATA := true
+TW_Y_OFFSET := 80
+TW_H_OFFSET := -80
 
 # LZMA compression for recovery's and kernelramdisk
 #LZMA_RAMDISK_TARGETS := recovery
