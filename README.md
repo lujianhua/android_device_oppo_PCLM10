@@ -9,7 +9,7 @@ OPPO Reno Ace was announced and released in October 2019.
 
 ## Device specifications
 
-| Device       | Meizu 16s Pro                          |
+| Device       | OPPO Reno Ace                          |
 | -----------: | :------------------------------------- |
 | SoC          | Qualcomm SM8150-AC Snapdragon 855+     |
 | CPU          | Octa-core 2.96GHz Kryo 485             |
