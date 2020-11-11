@@ -91,24 +91,8 @@ on property:twrp.decrypt.done=true && property:twrp.all.users.decrypted=true
     stop hwservicemanager
 
 
-
-
-
-
-
-
-
-# read ro.build.fingerprint from system, setprop it. for ota
-service fingerprintid /init.fingerprintid.sh
-    oneshot
-    disabled
-    user root
-    group root
-    seclabel u:r:recovery:s0
-
 on early-init
     setprop recovery.perf.mode 1
-    start fingerprintid
 
 on boot
     setprop recovery.perf.mode 0
